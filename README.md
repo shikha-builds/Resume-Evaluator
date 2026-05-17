@@ -47,7 +47,7 @@ RESUME-EVALUATOR/
 ├── README.md
 ├── requirements.txt
 ```
-***Note: test_api.py is a debugging temporary file used to test API connectivity and Model response.*** 
+***Note: test_api.py is a debugging temporary file used to test API connectivity and model response.*** 
 
 ## Workflow
 1. Upload Resume PDF
