@@ -1,0 +1,17 @@
+streamlit
+flask
+pandas
+numpy
+scikit-learn
+spacy
+matplotlib
+matplotlib-venn
+PyMuPDF
+google-genai
+python-dotenv
+jupyter
+notebook
+wordcloud
+flask
+flask-cors
+requests
